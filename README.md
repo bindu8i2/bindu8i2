@@ -1,4 +1,4 @@
-- 👋 Hi, I’m K.Bindu Lxmi Devi
+- 👋 Hi, I’m K.Bindu Laxmi Devi
 - 👀 I’m interested in Full Stack Web Development
 - 🌱 I’m currently learning Machine learning
 - 💞️ I’m looking to collaborate on ...
